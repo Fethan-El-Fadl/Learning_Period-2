@@ -6,7 +6,7 @@ if temp >= 0 and temp <= 30:
 elif temp < 0 or temp > 30:
     print("The temparature is bad today.")
     print("Stay inside!")
-    print("Hi!)
-    
+    print("Hi!")
+
 
 
